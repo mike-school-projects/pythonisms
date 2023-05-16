@@ -2,6 +2,12 @@
 
 ## Project: Pythonisms
 
+Create a Super Linked List class with the following:
+- Doubly-linked list
+- Iterable
+- len() returns number of nodes
+- str() returns a list of values of each node
+
 ## Author: Mike Shen
 
 ## Links and Resources
